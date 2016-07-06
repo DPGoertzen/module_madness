@@ -8,7 +8,7 @@ accountHeader : accountHeader,
 
 
 function makeAccountBalance(){
-  console.log(mod2.toUSCurrency(mod1.randomNum(100, 100000)));
+  console.log(mod2.toUSCurrency(mod1.randomNum(100, 1000000)));
 }
 
 function accountHeader(){
